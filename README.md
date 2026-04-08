@@ -1,7 +1,7 @@
 # Pizza Sales Analysis (SQL + Power BI)
 
-![Dashboard Preview](images/dashboard_preview1.png)
-![Dashboard Preview](images/dashboard_preview2.png)
+![Dashboard Preview](images/dashboard_preview1.jpg)
+![Dashboard Preview](images/dashboard_preview2.jpg)
 
 ## Project Overview
 
