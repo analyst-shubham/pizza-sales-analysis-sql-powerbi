@@ -56,3 +56,9 @@ This project analyzes pizza sales data to understand business performance, custo
 1. Load the dataset into PostgreSQL.  
 2. Run queries from the `sql/` folder.
 3. Open the Power BI file to explore the dashboard.
+
+By Shubham Bhakta
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
+
